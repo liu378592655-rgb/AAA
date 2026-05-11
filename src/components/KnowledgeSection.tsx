@@ -22,16 +22,16 @@ const articles = [
 export default function KnowledgeSection() {
   const articles = [
     {
-      title: "大胸型文胸挑选教科书",
+      title: "グラマーサイズのためのブラ選び教科書",
       category: "METHOD",
       desc: "グラマーサイズの方が陥りやすい「間違ったブラ選び」を徹底解説。正しい知識で、あなたの美しさは劇的に変わります。",
-      img: "https://github.com/liu378592655-rgb/NTP/releases/download/V1/07.jpg"
+      img: "https://github.com/liu378592655-rgb/AAA/releases/download/AAA/07.jpg"
     },
     {
-      title: "文胸只是媒体：奶糖派の想い",
+      title: "ブラはただのメディア：NaiTangPaiの想い",
       category: "PHILOSOPHY",
       desc: "ブラジャーはただの「下着」ではありません。あなたの自信を引き出すための「メディア」だと私たちは考えます。",
-      img: "https://github.com/liu378592655-rgb/NTP/releases/download/V1/08.jpg"
+      img: "https://github.com/liu378592655-rgb/AAA/releases/download/AAA/08.jpg"
     }
   ];
 
@@ -40,7 +40,7 @@ export default function KnowledgeSection() {
       <div className="max-w-7xl mx-auto px-4 text-center">
         <div className="max-w-xl mx-auto mb-16">
           <span className="text-brand-olive font-bold tracking-[0.4em] text-[10px] block mb-2 uppercase">Knowledge & Philosophy</span>
-          <h2 className="text-3xl md:text-4xl font-serif text-gray-900">大胸型文胸挑选教科书 / 文胸只是媒体</h2>
+          <h2 className="text-3xl md:text-4xl font-serif text-gray-900">グラマーサイズのためのブラ選び教科書 / ブラはただのメディア</h2>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 text-left">

@@ -31,7 +31,7 @@ export default function MemberBenefits() {
         <div className="bg-white p-8 md:p-16 rounded-sm border border-gray-100 italic">
           <div className="text-center mb-16">
             <span className="text-brand-olive font-bold tracking-[0.4em] text-[10px] block mb-2">MEMBERSHIP</span>
-            <h2 className="text-3xl font-serif text-gray-900">奶糖派 会員だけの安心特典</h2>
+            <h2 className="text-3xl font-serif text-gray-900">NaiTangPai 会員だけの安心特典</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12">

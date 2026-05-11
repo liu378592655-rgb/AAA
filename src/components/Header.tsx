@@ -61,8 +61,8 @@ export default function Header() {
           <div className="flex-shrink-0 flex items-center lg:w-[280px]">
             <a href="/" className="group">
               <img 
-                src="https://github.com/liu378592655-rgb/NTP/releases/download/V1/NTP.logo.png" 
-                alt="奶糖派 Japan" 
+                src="https://github.com/liu378592655-rgb/AAA/releases/download/AAA/NTP.logo.png" 
+                alt="NaiTangPai Japan" 
                 className="h-[20px] md:h-[24px] w-auto object-contain"
                 referrerPolicy="no-referrer"
               />

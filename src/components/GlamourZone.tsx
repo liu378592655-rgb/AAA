@@ -40,7 +40,7 @@ export default function GlamourZone() {
               <span className="italic italic-gold italic-title text-brand-gold">H, I, J, K Cup</span>
             </h2>
             <p className="mt-6 text-gray-600 font-light leading-relaxed">
-              「可愛いデザインがない」「サイズが合わない」という悩み、奶糖派 Japanが解決します。<br />
+              「可愛いデザインがない」「サイズが合わない」という悩み、NaiTangPai Japanが解決します。<br />
               Kカップまで対応する独自設計で、大きなバストを美しく、快適に。
             </p>
           </div>

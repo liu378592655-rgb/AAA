@@ -7,7 +7,7 @@ export default function Ranking() {
       id: '1',
       name: 'ビスチェリーナ (B-Kカップ)',
       price: 13200,
-      image: 'https://github.com/liu378592655-rgb/NTP/releases/download/V1/01.jpg',
+      image: 'https://github.com/liu378592655-rgb/AAA/releases/download/AAA/01.jpg',
       category: "ビスチェ風ブラ",
       ranking: 1,
       benefits: ["ウエスト補正", "姿勢サポート"]
@@ -16,7 +16,7 @@ export default function Ranking() {
       id: '2',
       name: '夜寄るブラ+plus (B-Mカップ)',
       price: 3300,
-      image: 'https://github.com/liu378592655-rgb/NTP/releases/download/V1/02.jpg',
+      image: 'https://github.com/liu378592655-rgb/AAA/releases/download/AAA/02.jpg',
       category: "ナイトブラ",
       ranking: 2,
       benefits: ["重力対策", "型崩れ防止"]
@@ -25,7 +25,7 @@ export default function Ranking() {
       id: '3',
       name: '特上脇肉キャッチャー (B-Kカップ)',
       price: 6820,
-      image: 'https://github.com/liu378592655-rgb/NTP/releases/download/V1/03.jpg',
+      image: 'https://github.com/liu378592655-rgb/AAA/releases/download/AAA/03.jpg',
       category: "脇高サポートブラ",
       ranking: 3,
       benefits: ["脇肉スッキリ", "肩こり軽減"]
@@ -34,7 +34,7 @@ export default function Ranking() {
       id: '4',
       name: 'ハリジェンヌ (B-Kカップ)',
       price: 6820,
-      image: 'https://github.com/liu378592655-rgb/NTP/releases/download/V1/04.jpg',
+      image: 'https://github.com/liu378592655-rgb/AAA/releases/download/AAA/04.jpg',
       category: "補整ブラジャー",
       ranking: 4,
       benefits: ["高さ出し", "デコルテケア"]

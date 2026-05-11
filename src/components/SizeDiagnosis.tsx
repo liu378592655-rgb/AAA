@@ -37,7 +37,7 @@ export default function SizeDiagnosis() {
           <div className="flex-1 relative">
             <div className="relative z-10 w-full aspect-square md:aspect-[4/3] rounded-sm overflow-hidden shadow-2xl">
                <img 
-                src="https://github.com/liu378592655-rgb/NTP/releases/download/V1/BrandBook1.jpg" 
+                src="https://github.com/liu378592655-rgb/AAA/releases/download/AAA/BrandBook1.jpg" 
                 alt="Diagnosis Concept" 
                 className="w-full h-full object-cover"
                 referrerPolicy="no-referrer"

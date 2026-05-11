@@ -5,7 +5,7 @@ export default function Footer() {
     "ショッピング": ["ブラジャー一覧", "ショーツ・ガードル", "セットアイテム", "新着情報", "セール"],
     "ガイド & サポート": ["フィッティング相談", "サイズ相談・診断", "返品・交換について", "送料・お届け", "お支払い方法"],
     "特別なサービス": ["アゲちゃって委員会", "試着サービス", "会員限定特典", "SNSコミュニティ"],
-    "企業情報": ["奶糖派について", "実店舗のご案内", "プライバシーポリシー", "利用規約", "特定商取引法表記"]
+    "企業情報": ["NaiTangPaiについて", "実店舗のご案内", "プライバシーポリシー", "利用規約", "特定商取引法表記"]
   };
 
   return (
@@ -38,7 +38,7 @@ export default function Footer() {
           {/* Brand Info */}
           <div className="col-span-2 md:col-span-3 lg:col-span-1">
             <div className="mb-6">
-              <span className="text-2xl font-serif font-bold tracking-tighter text-gray-900">奶糖派</span>
+              <img src="https://github.com/liu378592655-rgb/AAA/releases/download/AAA/NTP.logo.png" alt="NaiTangPai" className="h-7 object-contain object-left mb-2" />
             </div>
             <p className="text-[11px] text-gray-400 mb-8 leading-relaxed font-light">
               大阪府河内長野市から世界へ。<br />
@@ -71,7 +71,7 @@ export default function Footer() {
           </div>
           <div className="flex items-center space-x-3">
             <Mail size={14} className="text-brand-olive" />
-            <span className="text-[10px] font-bold tracking-widest uppercase">support@heaven-jp.com</span>
+            <span className="text-[10px] font-bold tracking-widest uppercase">support@naitangpai-jp.com</span>
           </div>
           <div className="flex items-center space-x-3">
             <MapPin size={14} className="text-brand-olive" />

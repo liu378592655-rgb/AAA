@@ -7,14 +7,14 @@ const series = [
     title: 'WAKINIKU CATCHER',
     jp: '脇肉キャッチャー',
     tagline: '背中・脇、はみ肉スッキリ。',
-    img: 'https://github.com/liu378592655-rgb/NTP/releases/download/V1/05.jpg',
+    img: 'https://github.com/liu378592655-rgb/AAA/releases/download/AAA/05.jpg',
     color: '#e6d5c3'
   },
   {
     title: 'YORU YORU BRA',
     jp: '夜寄るブラ',
     tagline: '寝ている間も、理想の形を。',
-    img: 'https://github.com/liu378592655-rgb/NTP/releases/download/V1/banner-1920.jpg',
+    img: 'https://github.com/liu378592655-rgb/AAA/releases/download/AAA/banner-1920.jpg',
     color: '#fdf0f0'
   }
 ];

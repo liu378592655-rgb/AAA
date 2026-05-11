@@ -37,7 +37,7 @@ export default function FittingService() {
               <span className="italic">正しいフィット感</span>から。
             </h2>
             <p className="text-gray-600 mb-10 leading-relaxed max-w-lg">
-              奶糖派 Japanでは、補整下着の真の力は、正しいサイズ選びによって初めて発揮されると考えています。
+              NaiTangPai Japanでは、補整下着の真の力は、正しいサイズ選びによって初めて発揮されると考えています。
               経験豊富なコンサルタントによる無料のフィッティングサービスで、理想のシルエットを叶えましょう。
             </p>
             

@@ -7,28 +7,28 @@ const products = [
     name: '特上脇肉キャッチャー (B-Kカップ)',
     price: '¥ 6,820',
     tag: '人気No.1',
-    image: 'https://github.com/liu378592655-rgb/NTP/releases/download/V1/01.jpg',
+    image: 'https://github.com/liu378592655-rgb/AAA/releases/download/AAA/01.jpg',
   },
   {
     id: 'p2',
     name: 'ハリジェンヌ (B-Kカップ)',
     price: '¥ 6,820',
     tag: 'エレガント',
-    image: 'https://github.com/liu378592655-rgb/NTP/releases/download/V1/02.jpg',
+    image: 'https://github.com/liu378592655-rgb/AAA/releases/download/AAA/02.jpg',
   },
   {
     id: 'p3',
     name: 'シン・胸不二子ブラ (C-Mカップ)',
     price: '¥ 6,820',
     tag: '新色入荷',
-    image: 'https://github.com/liu378592655-rgb/NTP/releases/download/V1/03.jpg',
+    image: 'https://github.com/liu378592655-rgb/AAA/releases/download/AAA/03.jpg',
   },
   {
     id: 'p4',
     name: 'SELFIT BRA セルフィットブラ',
     price: '¥ 4,950',
     tag: '快適な着け心地',
-    image: 'https://github.com/liu378592655-rgb/NTP/releases/download/V1/04.jpg',
+    image: 'https://github.com/liu378592655-rgb/AAA/releases/download/AAA/04.jpg',
   }
 ];
 

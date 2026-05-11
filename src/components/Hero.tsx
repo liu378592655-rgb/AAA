@@ -9,8 +9,8 @@ export default function Hero() {
           initial={{ scale: 1.1, opacity: 0 }}
           animate={{ scale: 1, opacity: 1 }}
           transition={{ duration: 1.8, ease: "easeOut" }}
-          src="https://github.com/liu378592655-rgb/NTP/releases/download/V1/banner-1920.jpg"
-          alt="奶糖派 Japan グラマーサイズ"
+          src="https://github.com/liu378592655-rgb/AAA/releases/download/AAA/banner-blue1920.jpg?v=2"
+          alt="NaiTangPai Japan グラマーサイズ"
           className="w-full h-full object-cover"
           referrerPolicy="no-referrer"
         />
@@ -28,7 +28,7 @@ export default function Hero() {
             </span>
             <h1 className="text-4xl md:text-7xl font-serif text-white leading-tight mb-8 drop-shadow-2xl">
                その悩み、<br className="md:hidden" />
-               <span className="italic">文胸</span>のせいかも。
+               <span className="italic">ブラ</span>のせいかも。
             </h1>
             <p className="text-white/90 text-sm md:text-lg font-light tracking-[0.2em] mb-48 max-w-2xl mx-auto leading-relaxed drop-shadow-md">
               「大きいから太って見える」「肩が凝る」「形が崩れてきた」<br />

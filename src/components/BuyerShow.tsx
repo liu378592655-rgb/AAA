@@ -8,7 +8,7 @@ const reviews = [
     size: "G75",
     type: "脇肉キャッチャー",
     comment: "大きい胸だと太って見えがちですが、これに変えてから着痩せして見えると言われます！サイドがスッキリするのが嬉しい。",
-    img: "https://github.com/liu378592655-rgb/NTP/releases/download/V1/20.jpg",
+    img: "https://github.com/liu378592655-rgb/AAA/releases/download/AAA/20.jpg",
     verified: true
   },
   {
@@ -17,7 +17,7 @@ const reviews = [
     size: "I80",
     type: "ハリジェンヌ",
     comment: "カップの形がしっかりしていて、重い胸もしっかり支えてくれます。修整感が全然なくて、ナチュラルに綺麗に見えます。",
-    img: "https://github.com/liu378592655-rgb/NTP/releases/download/V1/09.png",
+    img: "https://github.com/liu378592655-rgb/AAA/releases/download/AAA/09.png",
     verified: true
   },
   {
@@ -26,7 +26,7 @@ const reviews = [
     size: "F70",
     type: "夜寄るブラ",
     comment: "産後のバスト崩れが悩みでしたが、苦しくないのに朝まで形をキープしてくれます。毎晩欠かせません。",
-    img: "https://github.com/liu378592655-rgb/NTP/releases/download/V1/10.jpg",
+    img: "https://github.com/liu378592655-rgb/AAA/releases/download/AAA/10.jpg",
     verified: true
   }
 ];
@@ -38,7 +38,7 @@ export default function BuyerShow() {
         <div className="flex flex-col items-center mb-16 text-center">
           <span className="text-brand-olive font-bold tracking-[0.4em] text-[10px] block mb-2 uppercase">Real Reviews</span>
           <h2 className="text-3xl md:text-4xl font-serif text-gray-900 mb-4">
-            信頼与声音：日本模特真实穿着测评
+            信頼と声：日本人モデルのリアルな着用レビュー
           </h2>
           <p className="text-gray-400 text-xs tracking-widest font-light italic">
             「本音」で選ぶ、あなたのための美胸ガイド。
