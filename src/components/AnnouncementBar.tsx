@@ -9,7 +9,7 @@ export default function AnnouncementBar() {
   ];
 
   return (
-    <div className="bg-brand-pink py-2 overflow-hidden border-b border-brand-pink/20">
+    <div className="bg-brand-olive py-2 overflow-hidden">
       <div className="flex whitespace-nowrap">
         <motion.div
           animate={{ x: [0, -1000] }}
@@ -21,8 +21,7 @@ export default function AnnouncementBar() {
           className="flex space-x-12 px-4"
         >
           {[...announcements, ...announcements].map((text, i) => (
-            <span key={i} className="text-[10px] font-bold text-brand-olive tracking-widest flex items-center">
-              <span className="w-1.5 h-1.5 bg-brand-olive rounded-full mr-3" />
+            <span key={i} className="text-[10px] font-medium text-white/90 tracking-widest flex items-center">
               {text}
             </span>
           ))}

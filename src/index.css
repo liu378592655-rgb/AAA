@@ -5,12 +5,12 @@
   --font-sans: "Poppins", ui-sans-serif, system-ui, sans-serif;
   --font-serif: "Tenor Sans", ui-serif, Georgia, serif;
 
-  --color-brand-olive: #8E7E44;
-  --color-brand-gold: #c5a059;
-  --color-brand-beige: #F5F4F0;
-  --color-brand-cool-white: #F9F9F9;
-  --color-brand-grey: #BFC2C6;
-  --color-brand-pink: #F2F2F2; /* Repurposed as a cool grey-white */
+  --color-brand-olive: #C4A786; /* sand beige */
+  --color-brand-gold: #C4A786; /* sand beige */
+  --color-brand-beige: #F9F7F4;
+  --color-brand-cool-white: #FAF9F6;
+  --color-brand-grey: #D5D5D5;
+  --color-brand-pink: #FAF9F6;
 }
 
 @layer base {
